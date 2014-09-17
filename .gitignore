@@ -1,1 +1,7 @@
 .idea/workspace.xml
+/bin/
+.classpath
+.gradle/
+.project
+.settings/
+build/
